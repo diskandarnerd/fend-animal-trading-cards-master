@@ -1,0 +1,43 @@
+.imageholder {
+	width: 300px;
+}
+
+.header {
+	font-size: 30px
+}
+
+.italics {
+	font-style: italic;
+}
+
+span {
+	font-weight: bold;
+}
+
+.border {
+    border-style: solid;
+    border-width: 1px;
+    border-color: #D3D3D3;
+    max-width: 300px;
+    padding: 10px;
+}
+
+.borderwback {
+    border-style: solid;
+    border-width: 1px;
+    border-color: #D3D3D3;
+    max-width: 300px;
+    padding: 10px;
+}
+
+.shadow {
+	width: 300px;
+    box-shadow: 10px 10px 10px grey;
+    padding: 15px;
+}
+
+p {
+    white-space: pre-line;
+    padding-left: 10px;
+    padding-right: 10px;
+}
